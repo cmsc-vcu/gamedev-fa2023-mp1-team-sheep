@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/PlayerSandbox.unity
+    path: Assets/2D Platformer/Scenes/PlayerSandbox.unity
     guid: 25b9f7613b02bc945b3d3be5b3695684
+  - enabled: 1
+    path: Assets/2D Platformer/Scenes/WinScreen.unity
+    guid: 2925482636a5f0b4290f3aec6e617234
   m_configObjects: {}
